@@ -377,7 +377,6 @@ export const cities = [
   { name: "San Marino", country: "Single Time Zone", timeZone: "Europe/San_Marino" },
   { name: "Saudi Arabia", country: "Single Time Zone", timeZone: "Asia/Riyadh" },
   { name: "Serbia", country: "Single Time Zone", timeZone: "Europe/Belgrade" },
-  { name: "Singapore", country: "Single Time Zone", timeZone: "Asia/Singapore" },
   { name: "Slovakia", country: "Single Time Zone", timeZone: "Europe/Bratislava" },
   { name: "Slovenia", country: "Single Time Zone", timeZone: "Europe/Ljubljana" },
   { name: "South Korea", country: "Single Time Zone", timeZone: "Asia/Seoul" },
