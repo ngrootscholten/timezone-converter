@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   generator: 'v0.dev',
 }
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -18,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         {children}
-        
+
         <Analytics />  
       </body>
     </html>
